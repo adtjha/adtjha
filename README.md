@@ -6,9 +6,7 @@ I am Frontend Developer, UI/UX Developer, Web App Developer, etc. Basically I do
 
 🔭 I’m currently working on [Ghar Wapsi](ghar-wapsi.vercel.app), It is a platform for people who find it costly to travel alone, so [Ghar Wapsi](ghar-wapsi.vercel.app) Web App allows them to find a herd/Group, who are travelling in the same direction, and have a similar need.
 
-## [Portfolio Website](adi-site.vercel.app)
-
-💬 Ask me about my work, or any other thing, by reaching out to me.
+👓 [Check out my portfolio website](adi-site.vercel.app).
 
 📫 How to reach me: 
  - [Tweet me](https://twitter.com/adtjha)
