@@ -4,9 +4,9 @@ I am Frontend Developer, UI/UX Developer, Web App Developer, etc. Basically I do
 
 🌱 I’m currently learning React Native, for a future project of mine, of which UI and UX I have already developed and researched respectively.
 
-🔭 I’m currently working on [Ghar Wapsi](ghar-wapsi.vercel.app), It is a platform for people who find it costly to travel alone, so [Ghar Wapsi](ghar-wapsi.vercel.app) Web App allows them to find a herd/Group, who are travelling in the same direction, and have a similar need.
+🔭 I’m currently working on [Ghar Wapsi](https://ghar-wapsi.vercel.app), It is a platform for people who find it costly to travel alone, so [Ghar Wapsi](https://ghar-wapsi.vercel.app) Web App allows them to find a herd/Group, who are travelling in the same direction, and have a similar need.
 
-👓 [Check out my portfolio website](adi-site.vercel.app).
+👓 [Check out my portfolio website](https:/adi-site.vercel.app).
 
 📫 How to reach me: 
  - [Tweet me](https://twitter.com/adtjha)
