@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-I am Frontend Developer, UI/UX Developer, Web App Developer, etc. Basically I do all kinds of experiments and try out all types of new techologies related to Javascript. I love to design UI, and do UX research on different projects of mine, most of which are yet to see the daylight.
+I love experimenting with new javascript libraries, and frameworks. Most recently, I have been working on the video streaming tech like, WebRTC peer to peer, SFU, have developed media servers using mediasoup, and deployed on Google cloud compute. I have knowledge on react, svelte and all the basic frontend tech, including redux, XState, etc. On the backend side, I use Node JS almost on every project, and have used firebase mostly though I have also worked with mongodb, postgresql. Head over to my GitHub page to look at all the projects, I have worked at.
 
-🌱 I’m currently learning React Native, for a future project of mine, of which UI and UX I have already developed and researched respectively.
 
-🔭 I’m currently working on [Ghar Wapsi](https://ghar-wapsi.vercel.app), It is a platform for people who find it costly to travel alone, so [Ghar Wapsi](https://ghar-wapsi.vercel.app) Web App allows them to find a herd/Group, who are travelling in the same direction, and have a similar need.
+🌱 Recent Love is typescript. Had a lot of reservations about it, just looked like making simple javascript complex unneccessarily. But when I started using it, then I understood the power of typescript. For an example, I was working on this npm package, and was running into quite a lot of type error bugs, but when i switched to typescript, I was able to complete the package, even though i ran into bugs, was able to find and fix it, thanks to typescript. It made the development journey smooth. 
 
+🔭 I’m currently working on [6buns](https://6buns.com), a WebRTC API, it lets you create and maintain webrtc connections, enabling you to add live video/audio to your app.
+
+👨‍💻 Projects to Checkout
+- [6buns](https://github.com/6buns)
+- [Project Seva](https://github.com/adtjha/projectSeva)
+ 
 👓 [Check out my portfolio website](https://adi-site.vercel.app).
 
 📫 How to reach me: 
@@ -13,4 +18,4 @@ I am Frontend Developer, UI/UX Developer, Web App Developer, etc. Basically I do
  - [Insta me](https://www.instagram.com/adtjha/)
  - [LinkedIn Link](https://www.linkedin.com/in/aditya-jha-ba575674/)
  
-⚡ Fun fact: I was about to be graduate Engineer but COVID-19 happened, and now my degree is on hold, you can read more about it [here](https://www.google.com/search?sxsrf=ALeKk039o_ef_ZiYEgNpWtLqpBVUXEqt2g%3A1597424410369&ei=GsM2X9qJFsyV4-EPp4WWsAo&q=UGC+vs+STATE+Govt.+Final+Year+Exams+in+india&oq=UGC+vs+STATE+Govt.+Final+Year+Exams+in+india&gs_lcp=CgZwc3ktYWIQAzoECCMQJ1DTPliWa2Cld2gAcAB4AIABxwKIAfkWkgEIMC4xLjExLjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwja_qPUlZvrAhXMyjgGHaeCBaYQ4dUDCAw&uact=5).
+⚡ Project Defaults : Tailwind, Svelte, Node(Express), Firebase, GCP
