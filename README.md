@@ -8,12 +8,12 @@ I love experimenting with new javascript libraries, and frameworks. Most recentl
 🔭 I’m currently working on [6buns](https://6buns.com), a WebRTC API, it lets you create and maintain webrtc connections, enabling you to add live video/audio to your app.
 
 🔧 Skills
-- Frontend(HTML, CSS, Javascript, React, Redux, Svelte, NextJs), 
-- Backend(Node.Js, Python, Django), 
-- DBMS(Redis, MongoDB, PostgreSQL), 
-- Version Control(Git, Github), 
-- Hosting/Server(Heroku, GCP, Firebase, Supabase, etc.), 
-- IDE(Visual Studio Code, Atom)  
+- Frontend ( HTML, CSS, Javascript, React, Redux, Svelte, NextJs ), 
+- Backend ( Node.Js, Python, Django ), 
+- DBMS ( Redis, MongoDB, PostgreSQL ), 
+- Version Control ( Git, Github ), 
+- Hosting/Server ( Heroku, GCP, Firebase, Supabase, etc. ), 
+- IDE ( Visual Studio Code, Atom )  
 
 👨‍💻 Projects to Checkout
 - [6buns](https://github.com/6buns)
