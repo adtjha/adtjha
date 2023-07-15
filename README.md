@@ -17,6 +17,7 @@ I love experimenting with new javascript libraries, and frameworks. Most recentl
 
 👨‍💻 Projects to Checkout
 - [6buns](https://github.com/6buns)
+- [KeySafe](https://github.com/adtjha/keySafe)
 - [Project Seva](https://github.com/adtjha/projectSeva)
  
 👓 [Check out my portfolio website](https://adi-site.vercel.app).
