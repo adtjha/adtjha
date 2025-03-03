@@ -11,7 +11,7 @@ Learning Management System (LMS) – Designed and optimized a scalable e-learnin
 
 ⚡ Tech Stack:
 
-Frontend: React, Redux, Svelte, Tailwind CSS, Next.js\n
+Frontend: React, Redux, Svelte, Tailwind CSS, Next.js
 Backend: Node.js, Python, Flask, Express.js
 Databases: PostgreSQL, MongoDB, Redis
 DevOps & Cloud: Docker, Firebase, Google Cloud, AWS
