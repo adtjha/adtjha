@@ -6,9 +6,10 @@ I have recently worked extensively on video streaming technologies using WebRTC,
 
 ## 🔭 Recent Projects:
 
-- **6buns** – A WebRTC API enabling seamless peer-to-peer and SFU-based video streaming.
-- **KeySafe** – An API security solution with a key-based authentication system.
 - **Learning Management System (LMS)** – Designed and optimized a scalable e-learning platform, improving user engagement and reducing hosting costs.
+- **KeySafe** – An API security solution with a key-based authentication system.
+- **6buns** – A WebRTC API enabling seamless peer-to-peer and SFU-based video streaming.
+
 
 ## ⚡ Tech Stack:
 
